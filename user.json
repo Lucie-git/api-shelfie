@@ -1,0 +1,11 @@
+{
+  "user": [
+    {
+      "username": "LuciJeVa",
+      "email": "lucie.vadkerti@gmail.com",
+      "preferences": {
+        "favorite_genres": ["genre_001", "genre_003"]
+      }
+    }
+  ]
+}

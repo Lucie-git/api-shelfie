@@ -1,0 +1,44 @@
+{
+  "bookStatuses": [
+    {
+      "code": "toRead",
+      "name": "Chci přečíst",
+      "description": "Knihy, které si plánuji přečíst."
+    },
+    {
+      "code": "currentlyReading",
+      "name": "Čtu",
+      "description": "Knihy, které právě čtu."
+    },
+    {
+      "code": "read",
+      "name": "Přečteno",
+      "description": "Knihy, které jsem již přečetl/a."
+    },
+    {
+      "code": "loaned",
+      "name": "Půjčeno",
+      "description": "Knihy, které jsem někomu půjčil/a."
+    },
+    {
+      "code": "wantToBuy",
+      "name": "Chci si koupit",
+      "description": "Knihy, které si chci pořídit."
+    },
+    {
+      "code": "wantToRead",
+      "name": "Chci si přečíst",
+      "description": "Knihy, které si chci přečíst."
+    },
+    {
+      "code": "unread",
+      "name": "Nepřečtené",
+      "description": "Knihy, které jsem ještě nečetl/a."
+    },
+    {
+      "code": "unfinished",
+      "name": "Nedočtené",
+      "description": "Knihy, které jsem (zatím) nedočetl/a."
+    }
+  ]
+}

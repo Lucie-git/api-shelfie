@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "id": "book_001",
+      "title": "1984",
+      "author_id": "author_001",
+      "genre_ids": ["genre_001", "genre_002"],
+      "year_published": 1949,
+      "pages": 328,
+      "date_read": "2024-03-15",
+      "rating": 5,
+      "notes": "Silné téma. Doporučuji!"
+    }
+  ],
+  "authors": [
+    {
+      "id": "author_001",
+      "name": "George Orwell",
+      "birth_year": 1903,
+      "death_year": 1950,
+      "nationality": "British"
+    }
+  ],
+  "genres": [
+    {
+      "id": "genre_001",
+      "name": "Dystopian"
+    },
+    {
+      "id": "genre_002",
+      "name": "Political Fiction"
+    }
+  ],
+  "users": [
+    {
+      "id": "user_001",
+      "username": "jana_knihomolka",
+      "email": "jana@example.com",
+      "joined": "2023-11-01",
+      "preferences": {
+        "favorite_genres": ["genre_001", "genre_003"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Terry Pratchett",
+      "books": [
+        {
+          "id": "api.books?",
+          "title": "api.books.title?"
+        }
+      ]
+    }
+  ]
+}
