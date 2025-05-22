@@ -1,0 +1,15 @@
+[
+  {
+    "id": "book_001",
+    "authorId": "api.author?",
+    "title": "1984",
+    "bookCover": "nejspíš https://něconěco?:D",
+    "genreId": ["api.genres?"],
+    "year_published": 1949,
+    "pages": 328,
+    "isbn": "978-3-16-148410-0",
+    "description": "blablabla",
+    "status": "status_01",
+    "format": "paperBook"
+  }
+]

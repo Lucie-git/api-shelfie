@@ -1,0 +1,52 @@
+[
+  {
+    "id": "genre_01",
+    "genreName": "fantasy",
+    "description": "Příběhy odehrávající se ve fiktivních světech, často s prvky magie a nadpřirozena."
+  },
+  {
+    "id": "genre_02",
+    "genreName": "sci-fi",
+    "description": "Literatura zaměřená na vědecké a technologické koncepty, často situovaná do budoucnosti nebo vesmíru."
+  },
+  {
+    "id": "genre_03",
+    "genreName": "román",
+    "description": "Rozsáhlé prozaické dílo zaměřené na vývoj postav a jejich příběhů."
+  },
+  {
+    "id": "genre_04",
+    "genreName": "detektivka",
+    "description": "Příběh soustředěný na vyšetřování zločinu, obvykle s detektivem v hlavní roli."
+  },
+  {
+    "id": "genre_05",
+    "genreName": "thriller",
+    "description": "Napínavý příběh plný nečekaných zvratů a nebezpečných situací."
+  },
+  {
+    "id": "genre_06",
+    "genreName": "historický",
+    "description": "Díla zasazená do minulosti, často reflektující historické události a období."
+  },
+  {
+    "id": "genre_07",
+    "genreName": "biografie",
+    "description": "Popis života skutečné osoby, zaměřený na klíčové události a zkušenosti."
+  },
+  {
+    "id": "genre_08",
+    "genreName": "poezie",
+    "description": "Literární forma vyjadřující myšlenky a emoce prostřednictvím rytmu a obraznosti."
+  },
+  {
+    "id": "genre_09",
+    "genreName": "horor",
+    "description": "Příběhy navržené tak, aby vyvolaly strach, napětí nebo děs."
+  },
+  {
+    "id": "genre_10",
+    "genreName": "dobrodružný",
+    "description": "Vyprávění o cestách, objevech a nebezpečných situacích, často v exotických prostředích."
+  }
+]
