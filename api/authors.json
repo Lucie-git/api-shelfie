@@ -993,5 +993,45 @@
     "id": "author_200",
     "name": "Zdeněk Jirotka",
     "metaData": "Český humoristický spisovatel, nejvíce proslulý postavou Saturnina a jeho noblesním humorem."
+  },
+  {
+    "id": "author_201",
+    "name": "Jane Austenová",
+    "metaData": "Anglická spisovatelka klasických románů, známá především díky dílům jako Pýcha a předsudek či Rozum a cit."
+  },
+  {
+    "id": "author_202",
+    "name": "Andrzej Sapkowski",
+    "metaData": "Polský spisovatel fantasy, známý především díky sérii o Zaklínači."
+  },
+  {
+    "id": "author_203",
+    "name": "Mo Yan",
+    "metaData": "Čínský spisovatel, laureát Nobelovy ceny za literaturu, známý kombinací realismu a magického realismu."
+  },
+  {
+    "id": "author_204",
+    "name": "George R.R. Martin",
+    "metaData": "Americký spisovatel fantasy, autor ságy Píseň ledu a ohně (Hra o trůny)."
+  },
+  {
+    "id": "author_205",
+    "name": "Alison Weirová",
+    "metaData": "Britská spisovatelka historických románů, autorka série Šest Tudorovských královen."
+  },
+  {
+    "id": "author_206",
+    "name": "Frank Herbert",
+    "metaData": "Americký spisovatel sci-fi, autor epické ságy Duna."
+  },
+  {
+    "id": "author_207",
+    "name": "Suzanne Collinsová",
+    "metaData": "Americká spisovatelka dystopických románů, autorka série Hunger Games."
+  },
+  {
+    "id": "author_208",
+    "name": "Lenny Kravitz",
+    "metaData": "Americký hudebník a herec, autor hudebních memoárů Let Love Rule."
   }
 ]
